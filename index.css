@@ -94,7 +94,7 @@ li {
 li:hover { background: #191818; }
 
 .design-selection li {
-	width: 200px;
+	width: 900px;
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
